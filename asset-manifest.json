@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Lana_portfolio/static/css/main.92e632a1.css",
-    "main.js": "/Lana_portfolio/static/js/main.ec1e3059.js",
+    "main.js": "/Lana_portfolio/static/js/main.037862de.js",
     "static/js/453.d647f8e7.chunk.js": "/Lana_portfolio/static/js/453.d647f8e7.chunk.js",
     "static/media/pepega-hackermans.gif": "/Lana_portfolio/static/media/pepega-hackermans.33fd2b046fc7180d5493.gif",
     "static/media/froggie.jpeg": "/Lana_portfolio/static/media/froggie.e9e14d48e1da409bae33.jpeg",
     "index.html": "/Lana_portfolio/index.html",
     "main.92e632a1.css.map": "/Lana_portfolio/static/css/main.92e632a1.css.map",
-    "main.ec1e3059.js.map": "/Lana_portfolio/static/js/main.ec1e3059.js.map",
+    "main.037862de.js.map": "/Lana_portfolio/static/js/main.037862de.js.map",
     "453.d647f8e7.chunk.js.map": "/Lana_portfolio/static/js/453.d647f8e7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.92e632a1.css",
-    "static/js/main.ec1e3059.js"
+    "static/js/main.037862de.js"
   ]
 }
