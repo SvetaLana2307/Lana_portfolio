@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.92e632a1.css",
+    "main.js": "/static/js/main.c097f5d2.js",
+    "static/js/453.d647f8e7.chunk.js": "/static/js/453.d647f8e7.chunk.js",
+    "static/media/pepega-hackermans.gif": "/static/media/pepega-hackermans.33fd2b046fc7180d5493.gif",
+    "static/media/froggie.jpeg": "/static/media/froggie.e9e14d48e1da409bae33.jpeg",
+    "index.html": "/index.html",
+    "main.92e632a1.css.map": "/static/css/main.92e632a1.css.map",
+    "main.c097f5d2.js.map": "/static/js/main.c097f5d2.js.map",
+    "453.d647f8e7.chunk.js.map": "/static/js/453.d647f8e7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92e632a1.css",
+    "static/js/main.c097f5d2.js"
+  ]
+}
